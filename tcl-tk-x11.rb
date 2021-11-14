@@ -15,7 +15,7 @@ class TclTkX11 < Formula
   resource "tk" do
     url "https://downloads.sourceforge.net/project/tcl/Tcl/8.6.12/tk8.6.12-src.tar.gz"
     mirror "https://fossies.org/linux/misc/tk8.6.12-src.tar.gz"
-    sha256 "63df418a859d0a463347f95ded5cd88a3dd3aaa1ceecaeee362194bc30f3e386"
+    sha256 "12395c1f3fcb6bed2938689f797ea3cdf41ed5cb6c4766eec8ac949560310630"
   end
 
   resource "critcl" do
